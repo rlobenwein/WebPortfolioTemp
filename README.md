@@ -1,23 +1,31 @@
-# TÍTULO DO PROJETO
+# Protfolio de Projetos
 
-`CURSO`
+`Analise e Desenvolvimento de Sistemas`
 
-`DISCIPLINA`
+`Projeto: Desenvolvimento de uma Aplicação Móvel`
 
-`SEMESTRE`
+`Eixo 3`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+
+O objetivo geral deste trabalho é a criação de um site de portfólio para publicações de projetos desenvolvidos ao longo da carreira acadêmica e profissional. 
+
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+
+* Adilson Antônio Ferreira Junior
+* José Flávio Miranda 
+* Pedro Henrique Pinto de Lacerda
+* Pedro Von Der Heide Souza
+* Rodrigo Lobenwein Resende
+* Vera Lúcia Gonçalves Almeida
+
+
+
 
 ## Orientador
 
-* Nome completo do professor 1
+* Will Ricardo dos Santos Machado
 
 ## Instruções de utilização
 
