@@ -1,4 +1,4 @@
-# Protfolio de Projetos
+# Portfolio de Projetos
 
 `Analise e Desenvolvimento de Sistemas`
 
@@ -19,8 +19,6 @@ O objetivo geral deste trabalho é a criação de um site de portfólio para pub
 * Pedro Von Der Heide Souza
 * Rodrigo Lobenwein Resende
 * Vera Lúcia Gonçalves Almeida
-
-
 
 
 ## Orientador
