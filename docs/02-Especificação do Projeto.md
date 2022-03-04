@@ -15,9 +15,9 @@ Maria José, tem 22 anos, recém formada em Analise e Desenvolvimento de Sistema
 
 ![mariajose](https://user-images.githubusercontent.com/81194817/135849180-a12795e2-75ab-4041-9551-f87562ed8b33.png)
 
-João da Silva, tem 29 anos, é pós graduado em Engenharia de Software, deseja ter um site diferenciado dos demais para apresentar seus projetos em um processo seletivo de trainee e atualiza-lo rapidamente. Tambem deseja ter em uma unica aplicação acesso ao seu perfil do Linkedin e GitHub.
+João da Silva tem 46 anos e é Gerente de Projetos de TI em um grande banco. Foi recentemente incumbido de montar uma nova equipe para o desenvolvimento de uma nova plataforma de investimentos (web e móvel), que deverá operar de forma independente do aplicativo de Internet Banking. Na primeira fase será desenvolvida apenas a aplicação web, e para esta equipe João precisa buscar profissionais especialistas em ASP.NET e SQL Server, além de um especialista em UX. Como não encontra profissionais com estas especialidades, está considerando contratar profissionais de outras linguagens e custear o treinamento e a capacitação - uma alternativa que terá um grande impacto no cronograma do projeto.
 
-![joao da silva](https://user-images.githubusercontent.com/81194817/135849176-c65f3832-dcf0-4c51-8c69-3585c45cdfe5.png)
+![João da Silva](img/joao_da_silva.jpg)
 
 Ana Maria, tem 27 anos, recém formada em Ciência da Computação, está procurando emprego e quer mostrar aos empregadores o que já desenvolveu por ordem cronológica. Para facilita a vida e o entendimento do recrutador. 
 
@@ -37,13 +37,14 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Andre Maia          | Publicar meus projetos                                          | conseguir um estágio na minha área de atuação                           |
 |Andre Maia          | Publicar meus projetos                                          | compartilhar rapidamente com qualquer pessoa                            |
 |Maria José          | Organizar meus projetos por linguagens                          | mostrar minhas habilidades para recrutadores                            |
-|João da Silva       | Publicar meus projetos                                          | apresentar em um processo seletivo de trainee                           |
-|João da Silva       | Ter um site personalizado de porfolio de projetos               | atualiza-lo rapidamente                                                 |
+|João da Silva       | Encontrar profissionais com conhecimentos específicos           | reduzir o tempo necessário de treinamento e capacitação                            |
+|João da Silva       | Ter uma plataforma onde consiga pesquisar profissionais utilizando filtros, como a experiência com uma linguagem | encontrar o profissional ideal para cada posição da sua equipe|
+|João da Silva       | Ter uma plataforma onde consiga pesquisar profissionais por área de atuação - como frontend, backend, banco de dados, UX |encontrar o profissional ideal para cada posição da sua equipe|
+|João da Silva       | Pesquisar os profissionais combinando diferentes tipos de filtro | encontrar o melhor profissional possível que esteja disponível para integrar sua equipe|
+|João da Silva       | Pesquisar profissionais que já trabalharam no setor financeiro | ter na equipe uma pessoa mais familiarizada com as regras de negócio do projeto|
+|João da Silva       | Ter a possibilidade de entrar em contato com os profissionais | agendar uma entrevista|
 |Ana Maria           | Organizar seus projetos em ordem cronológica                    | para mostrar minha evolução e facilitar o entendimento dos recrutadores |
-|Administrador       | Alterar permissões                                              | Permitir que possam administrar contas                                  |
 |Antonio Bandeira    | Visualizar projetos                                             | Recrutar a Maria José e outros desenvolvedores.                         |
-|João da Silva       | Fornecer em uma unica aplicação acesso ao meu perfil do Linkedin | Facilitar a vida do recrutador                                              |
-|João da Silva       | Fornecer em uma unica aplicação acesso ao meu perfil do GitHub | Facilitar a vida do recrutador                                              |
 
 ## Requisitos
 
@@ -53,7 +54,11 @@ Os requisitos funcionais são de extrema importância no desenvolvimento de apli
 
 |ID    | Descrição do Requisito                                                                                  | Prioridade |
 |------|---------------------------------------------------------------------------------------------------------|------------|
+|RF-001| A aplicação deve permitir o cadastro e login para os recrutadores                                    |    MÉDIA   | 
+|RF-001| A aplicação deve permitir aos recrutadores a pesquisa no banco de dados de profissionais                                     |    MÉDIA   | 
+|RF-001| A aplicação deve permitir aos recrutadores a pesquisa no banco de dados de profissionais utilizando filtros                                     |    MÉDIA   | 
 |RF-001| A aplicação deve permitir o cadastro e login para os administradores                                    |    MÉDIA   | 
+|RF-001| A aplicação deve permitir ao usuário informar suas experiências profissionais                                    |    MÉDIA   | 
 |RF-002| A aplicação deve permitir um espaço para apresentação profissional do usuário                           |    MÉDIA   | 
 |RF-003| A aplicação deve conter um espaço para a exposição de projetos                                          |    MÉDIA   | 
 |RF-004| A aplicação deve conter um campo com formulário de contato                                              |    MÉDIA   |
