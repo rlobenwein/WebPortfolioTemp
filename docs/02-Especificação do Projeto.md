@@ -5,7 +5,8 @@
  
 Fernanda Silva tem 23 anos e é formada em Ciências da Computação. Ela busca um site personalizado onde possa publicar seus projetos, feitos em treinamentos na universidade, para que possa apresentar aos recrutadores, facilitando seu ingresso no mercado de trabalho, mesmo sem uma área específica.
 
-![fernanda silva](https://user-images.githubusercontent.com/81194817/135849893-7251ac9a-947a-41a3-abce-4a96ad8e7e0d.png) 
+
+![ana maria](https://user-images.githubusercontent.com/81194817/135849893-7251ac9a-947a-41a3-abce-4a96ad8e7e0d.png) 
 
 Andre Maia, tem 20 anos está no terceiro período de Sistemas de Informação na PUC Minas, possui vários projetos, mas ainda não conseguiu um estágio na área de atuação. É Portador de Deficiência Física, deseja ter um site pessoal com seus projetos, para facilitar sua comunicação com os recrutadores e ter mais segurança em suas apresentações.
 
@@ -19,9 +20,9 @@ João da Silva tem 46 anos e é Gerente de Projetos de TI em um grande banco. Fo
 
 ![João da Silva](img/joao_da_silva.jpg)
 
-Ana Maria, tem 27 anos, recém formada em Ciência da Computação, está procurando emprego e quer mostrar aos empregadores o que já desenvolveu por ordem cronológica. Para facilita a vida e o entendimento do recrutador. 
+Ana Maria tem 25 anos, é uma desenvolvedora Jr front-end em ReactJs buscando oportunidade como desenvolvedora back-end Java. Ana já possui um portfólio inicial em Java e gostaria de divulgá-lo com intenção de receber uma oferta de emprego para atuar na área. Além disso, ela deseja se conectar com outros desenvolvedores Java para compartilhar e adquirir conhecimento sobre a linguagem. 
 
-![ana maria](https://user-images.githubusercontent.com/81194817/135849173-7f3299d5-002d-416d-8c99-4dd9130f0b28.png) 
+![fernanda silva](https://user-images.githubusercontent.com/81194817/135849173-7f3299d5-002d-416d-8c99-4dd9130f0b28.png) 
 
 
 Antonio Bandeira, tem 54 anos, é Gerente do setor de Tecnologia da Informação de uma grande multinacional, está a procura de bons desenvolvedores. Está entrevistando a Maria Jsé e deseja acessar o site para visualizar seus projetos, acessar seu Linkedin e seu perfil do GitHub e de outros usuarios. 
@@ -45,6 +46,18 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |João da Silva       | Ter a possibilidade de entrar em contato com os profissionais | agendar uma entrevista|
 |Ana Maria           | Organizar seus projetos em ordem cronológica                    | para mostrar minha evolução e facilitar o entendimento dos recrutadores |
 |Antonio Bandeira    | Visualizar projetos                                             | Recrutar a Maria José e outros desenvolvedores.                         |
+| Ana Maria            | Publicar meus projetos em Java                                   | ingressar de maneira rápida no mercado de trabalho                      |
+| Ana Maria            | Trocar experiências com outros desenvolvedores em Java           | adquirir e compartilhar conhecimentos sobre a linguagem                 |
+| Andre Maia           | Publicar meus projetos                                           | conseguir um estágio na minha área de atuação                           |
+| Andre Maia           | Publicar meus projetos                                           | compartilhar rapidamente com qualquer pessoa                            |
+| Maria José           | Organizar meus projetos por linguagens                           | mostrar minhas habilidades para recrutadores                            |
+| João da Silva        | Publicar meus projetos                                           | apresentar em um processo seletivo de trainee                           |
+| João da Silva        | Ter um site personalizado de porfolio de projetos                | atualiza-lo rapidamente                                                 |
+| Fernanda Silva       | Organizar seus projetos em ordem cronológica                     | para mostrar minha evolução e facilitar o entendimento dos recrutadores |
+| Administrador        | Alterar permissões                                               | Permitir que possam administrar contas                                  |
+| Antonio Bandeira     | Visualizar projetos                                              | Recrutar a Maria José e outros desenvolvedores.                         |
+| João da Silva        | Fornecer em uma unica aplicação acesso ao meu perfil do Linkedin | Facilitar a vida do recrutador                                          |
+| João da Silva        | Fornecer em uma unica aplicação acesso ao meu perfil do GitHub   | Facilitar a vida do recrutador                                          |
 
 ## Requisitos
 
