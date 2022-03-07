@@ -11,7 +11,7 @@ Andre Maia, tem 20 anos está no terceiro período de Sistemas de Informação n
 
 ![andremaia](https://user-images.githubusercontent.com/81194817/135849211-33677944-1b7a-42ae-965f-0f4446e1f7d8.jpg)
 
-Maria José, tem 22 anos, recém formada em Analise e Desenvolvimento de Sistemas, já está inserida no mercado de mrabalho. Deseja ter um site para organizar seus projetos por linguagens e para demonstrar suas competências e habilidades. 
+Maria José, tem 29 anos, profissional de Tech Recruiter de uma multinacional de transformação digital à procura de um profissional específico, deseja encontrar com urgência um desenvolvedor SAP ABAP Sênior que tenha profundo conhecimento no módulo FI e tenha disponibilidade para viagens, visto que a empresa opera em vários projetos com prazos curtos e precisa reforçar o time de desenvolvimento o quanto antes. Maria José encontrou dificuldade de encontrar esse profissionai nas ferramentas convencionais e gostaria de uma aplicação que tenham diversos filtros para facilitar sua busca e encontrar exatamente o que procura no menor tempo possível.
 
 ![mariajose](https://user-images.githubusercontent.com/81194817/135849180-a12795e2-75ab-4041-9551-f87562ed8b33.png)
 
@@ -52,18 +52,19 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 Os requisitos funcionais são de extrema importância no desenvolvimento de aplicativos, pois, sem eles não há funcionalidades nos sistemas. Seus modelos devem ser construídos em um nível de entendimento claro e objetivo, além de um código fonte totalmente aplicável. 
 
-|ID    | Descrição do Requisito                                                                                  | Prioridade |
-|------|---------------------------------------------------------------------------------------------------------|------------|
-|RF-001| A aplicação deve permitir o cadastro e login para os administradores                                    |    MÉDIA   | 
-|RF-002| A aplicação deve permitir um espaço para apresentação profissional do usuário                           |    MÉDIA   | 
-|RF-003| A aplicação deve conter um espaço para a exposição de projetos                                          |    MÉDIA   | 
-|RF-004| A aplicação deve conter um campo com formulário de contato                                              |    MÉDIA   |
-|RF-005| A aplicação deve conter um filtro de projetos por linguagem                                             |    MÉDIA   |
-|RF-006| A aplicação deve conter um espaço para incluir certificados de treinamentos                             |    MÉDIA   |
-|RF-007| A aplicação deve conter uma área para seleção do perfil do profissional desejado                        |    MÉDIA   |
-|RF-008| A aplicação deve conter um campo para acesso direto ao LinkedIn                                         |    MÉDIA   |
-|RF-009| A aplicação deve conter um campo para acesso ao GitHub                                                  |    MÉDIA   |
-|RF-010| A aplicação deve conter um espaço para cadastro e exposição do perfil dos usuários cadastrados          |    MÉDIA   |
+|ID    | Descrição do Requisito                                                                                                         | Prioridade |
+|------|--------------------------------------------------------------------------------------------------------------------------------|------------|
+|RF-001| A aplicação deve permitir o cadastro e login para os administradores                                                           |    MÉDIA   | 
+|RF-002| A aplicação deve permitir um espaço para apresentação profissional do usuário                                                  |    MÉDIA   | 
+|RF-003| A aplicação deve conter um espaço para a exposição de projetos                                                                 |    MÉDIA   | 
+|RF-004| A aplicação deve conter um campo com formulário de contato                                                                     |    MÉDIA   |
+|RF-005| A aplicação deve conter um filtro de projetos por linguagem                                                                    |    MÉDIA   |
+|RF-006| A aplicação deve conter um espaço para incluir certificados de treinamentos                                                    |    MÉDIA   |
+|RF-007| A aplicação deve conter uma área para seleção do perfil do profissional desejado                                               |    MÉDIA   |
+|RF-008| A aplicação deve conter um campo para acesso direto ao LinkedIn                                                                |    MÉDIA   |
+|RF-009| A aplicação deve conter um campo para acesso ao GitHub                                                                         |    MÉDIA   |
+|RF-010| A aplicação deve conter um espaço para cadastro e exposição do perfil dos usuários cadastrados                                 |    MÉDIA   |
+|RF-011| A aplicação deve conter um campo contendo as preferências de trabalho do profissional (HomeOffice, viagens, escritório)        |    MÉDIA   |
 
 ### Requisitos não Funcionais
 
