@@ -53,8 +53,8 @@ Os requisitos funcionais são de extrema importância no desenvolvimento de apli
 
 |ID    | Descrição do Requisito                                                                                  | Prioridade |
 |------|---------------------------------------------------------------------------------------------------------|------------|
-|RF-001| A aplicação deve permitir o cadastro e login para os administradores                                    |    MÉDIA   | 
-|RF-002| A aplicação deve permitir um espaço para apresentação profissional do usuário                           |    MÉDIA   | 
+|RF-001| A aplicação deve permitir o cadastro e login para os administradores                                    |    ALTA  | 
+|RF-002| A aplicação deve permitir um espaço para apresentação profissional do usuário                           |    ALTA   | 
 |RF-003| A aplicação deve conter um espaço para a exposição de projetos                                          |    MÉDIA   | 
 |RF-004| A aplicação deve conter um campo com formulário de contato                                              |    MÉDIA   |
 |RF-005| A aplicação deve conter um filtro de projetos por linguagem                                             |    MÉDIA   |
@@ -62,7 +62,7 @@ Os requisitos funcionais são de extrema importância no desenvolvimento de apli
 |RF-007| A aplicação deve conter uma área para seleção do perfil do profissional desejado                        |    MÉDIA   |
 |RF-008| A aplicação deve conter um campo para acesso direto ao LinkedIn                                         |    MÉDIA   |
 |RF-009| A aplicação deve conter um campo para acesso ao GitHub                                                  |    MÉDIA   |
-|RF-010| A aplicação deve conter um espaço para cadastro e exposição do perfil dos usuários cadastrados          |    MÉDIA   |
+|RF-010| A aplicação deve conter um espaço para cadastro e exposição do perfil dos usuários cadastrados          |    ALTA   |
 
 ### Requisitos não Funcionais
 
