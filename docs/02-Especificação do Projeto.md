@@ -3,7 +3,7 @@
 ## Personas
 
  
-Fernanda Silva, tem 17 anos é estudante do 3º ano do ensino médio. Tem o sonho de ingressar de maneira rápida no mercado de trabalho, deseja ter um site personalizado para publicar seus projetos feitos em treinamentos pela internet, para apresentar a recrutadores.
+Fernanda Silva tem 23 anos e é formada em Ciências da Computação. Ela busca um site personalizado onde possa publicar seus projetos, feitos em treinamentos na universidade, para que possa apresentar aos recrutadores, facilitando seu ingresso no mercado de trabalho, mesmo sem uma área específica.
 
 ![fernanda silva](https://user-images.githubusercontent.com/81194817/135849893-7251ac9a-947a-41a3-abce-4a96ad8e7e0d.png) 
 
@@ -33,7 +33,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`                              |PARA ... `MOTIVO/VALOR`                                               |
 |--------------------|-----------------------------------------------------------------|----------------------------------------------------------------------|                   
-|Fernanda Silva      | Publicar meus projetos                                          | ingressar de maneira rápida no mercado de trabalho                      |
+|Fernanda Silva      | Publicar meus projetos                                          | ingressar rapidamente no mercado de trabalho sem área específica  |
 |Andre Maia          | Publicar meus projetos                                          | conseguir um estágio na minha área de atuação                           |
 |Andre Maia          | Publicar meus projetos                                          | compartilhar rapidamente com qualquer pessoa                            |
 |Maria José          | Organizar meus projetos por linguagens                          | mostrar minhas habilidades para recrutadores                            |
