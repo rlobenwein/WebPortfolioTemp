@@ -6,11 +6,11 @@ Isso significa que o portfólio tem um objetivo diferente do currículo. Um curr
 
 Existem várias categorias de portfolios. No caso de um fotógrafo, por exemplo, o portfólio será composto por fotos que foram tiradas em vários de seus trabalhos. Quanto ao de um redator, terá uma coleção de textos que ele já escreveu. Um designer, por outro lado, poderá apresentar artes que já tenha criado. E para um desenvolvedor web, terá uma relação de projetos criados no decorrer da formação profissional. 
 
-Após se desenvolver profissionalmente é necessário divulgar projetos/trabalhos e causar uma ótima impressão para conseguir bons clientes. Um portfólio pode ser fundamental para alunos que estão terminando os estudos ou até mesmo em transição de carreira, onde poderá ser incluído trabalhos academicos, projetos pessoais, serviços feitos para terceiros e outros. Ou seja, uma coleção de trabalhos realizados em toda a sua vivência acadêmica.
+Após se desenvolver profissionalmente é necessário divulgar projetos/trabalhos e causar uma ótima impressão para conseguir bons clientes. Um portfólio pode ser fundamental para alunos que estão terminando os estudos ou até mesmo em transição de carreira, onde poderá ser incluído trabalhos acadêmicos, projetos pessoais, serviços feitos para terceiros e outros. Ou seja, uma coleção de trabalhos realizados em toda a sua vivência acadêmica.
 
 Com o passar do tempo, o universitário vive experiências acadêmicas valiosas, como a produção e apresentação de trabalhos, palestras e participações em seminários, teses, certificados de cursos extras e outras atividades. Ter disponível um portfólio da carreira acadêmica, permite fazer uma autoavaliação do desenvolvimento nos estudos, e pode ser muito útil na hora de procurar oportunidades para começar a atuar no mercado de trabalho, surpreendendo os recrutadores e comprovando a capacidade para assumir determinada função. 
 
-Segundo Nell Patel (2021) “Fazer uma boa apresentação é um sinal de responsabilidade e cuidado com o seu trabalho e mostra firmeza na sua conduta profissional. Assim, poderá ser uma porta aberta para grandes oportunidades. E, lembre-se, portfólio não é só uma pasta com os seus materiais, é uma seleção dos seus melhores trabalhos, organizado de forma apresentável para uma ocasião profissional.”
+Segundo Nell Patel (2021), “Fazer uma boa apresentação é um sinal de responsabilidade e cuidado com o seu trabalho e mostra firmeza na sua conduta profissional. Assim, poderá ser uma porta aberta para grandes oportunidades. E, lembre-se, portfólio não é só uma pasta com os seus materiais, é uma seleção dos seus melhores trabalhos, organizado de forma apresentável para uma ocasião profissional.”
 
 ## Problema
 
@@ -34,13 +34,10 @@ Os objetivos específicos são:
 
 ## Justificativa
 
-Em um Mercado cada vez mais saturado e competitivo, ter um bom portfólio online pode distinguir um profissional dos demais, sendo uma vantagem competitiva para se conseguir um bom trabalho, causando uma ótima impressão para os recrutadores. Ou seja, é uma forma excelente de se mostrar na prática do que um profissional é capaz. Se for bem elaborado e organizado, o portfólio consegue abrir portas, pois é a maneira mais fácil de um profissional ou estudante mostrar seu trabalho e suas habilidades para o mercado. 
+Em um mercado cada vez mais saturado e competitivo, ter um bom portfólio online pode distinguir um profissional dos demais, sendo uma vantagem competitiva para se conseguir um bom trabalho, causando uma ótima impressão para os recrutadores. Ou seja, é uma forma excelente de se mostrar na prática do que um profissional é capaz. Se for bem elaborado e organizado, o portfólio consegue abrir portas, pois é a maneira mais fácil de um profissional ou estudante mostrar seu trabalho e suas habilidades para o mercado. 
 
 
 
 ## Público-Alvo
 
 Estudantes, Desenvolvedores, profissionais dos mais diversos âmbitos do setor da Tecnologia da Informação, Designers e diversos outros profissionais que desejam publicar seus projetos de maneira individual afim de ter um portifólio de apresentação profissional.
-
-
-
