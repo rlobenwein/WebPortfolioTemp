@@ -14,6 +14,7 @@ O objetivo geral deste trabalho é a criação de um site de portfólio para pub
 
 
 * Adilson Antônio Ferreira Junior
+* Jéssica Gonçalves Dos Santos
 * José Flávio Miranda 
 * Pedro Henrique Pinto de Lacerda
 * Pedro Von Der Heide Souza
