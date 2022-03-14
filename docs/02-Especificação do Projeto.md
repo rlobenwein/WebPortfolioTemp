@@ -37,7 +37,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 | Ana Maria            | Trocar experiências com outros desenvolvedores em Java       | adquirir e compartilhar conhecimentos sobre a linguagem      |
 | André Maia           | Publicar meus projetos que comprovem meu experiência e conhecimentos em lógica de programação | conseguir um contato com empresas que contratam e promovam treinamentos em ABAP para pessoas experientes em outras linguagens |
 | André Maia           | Trocar conhecimentos com profissionais SAP ABAP              | compartilhar conhecimentos rapidamente com qualquer pessoa   |
-| Maria José           | Organizar meus projetos por linguagens                       | mostrar minhas habilidades para recrutadores                 |
+| Maria José           | Utilizar filtros para encontrar o profissional desejado      | Encontrar um profissional e poder entrar em contato          |
 | João da Silva        | Publicar meus projetos                                       | apresentar em um processo seletivo de trainee                |
 | João da Silva        | Ter um site personalizado de porfolio de projetos            | atualiza-lo rapidamente                                      |
 | Fernanda Silva       | Organizar seus projetos em ordem cronológica                 | para mostrar minha evolução e facilitar o entendimento dos recrutadores |
