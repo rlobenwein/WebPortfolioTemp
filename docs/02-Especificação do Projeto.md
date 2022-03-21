@@ -29,7 +29,7 @@ Antonio Bandeira tem 54 anos, é Gerente do setor de Tecnologia da Informação 
 
 ![download (2)](https://user-images.githubusercontent.com/81194817/138904809-91074819-bf30-4262-a572-fc5e48bb85c7.jpg)
 
-![Marina Rodrigues](img/mariana_rodrigues.png)
+![Marina Rodrigues](img/marina_rodrigues.png)
 
 Marina Rodrigues tem 35 anos, é uma desenvolvedora Jr front-end em React Js buscando oportunidade como desenvolvedora back-end C#. Marina possui um portfólio inicial em React e gostaria de divulgá-lo com intenção de receber uma oferta de emprego para atuar na área. Inclusive pensando em carreira internacional. Além disso, ela deseja se conectar com outros desenvolvedores na linguagem C# para compartilhar e adquirir conhecimento sobre a linguagem. 
 
@@ -65,6 +65,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 | Antonio Bandeira     | Visualizar projetos                                              | Recrutar a Maria José e outros desenvolvedores.                         |
 | João da Silva        | Fornecer em uma unica aplicação acesso ao meu perfil do Linkedin | Facilitar a vida do recrutador                                          |
 | João da Silva        | Fornecer em uma unica aplicação acesso ao meu perfil do GitHub   | Facilitar a vida do recrutador                                          |
+| Marina Rodrigues      | Fornecer em uma unica aplicação acesso ao meu perfil do GitHub   | Facilitar a vida do recrutador                                          |
 
 ## Requisitos
 
@@ -84,6 +85,7 @@ Os requisitos funcionais são de extrema importância no desenvolvimento de apli
 |RF-008| A aplicação deve conter um campo para acesso direto ao LinkedIn                                         |    MÉDIA   |
 |RF-009| A aplicação deve conter um campo para acesso ao GitHub                                                  |    MÉDIA   |
 |RF-010| A aplicação deve conter um espaço para cadastro e exposição do perfil dos usuários cadastrados          |    ALTA   |
+
 
 ### Requisitos não Funcionais
 
