@@ -28,6 +28,12 @@ Ana Maria tem 25 anos, é uma desenvolvedora Jr front-end em ReactJs buscando op
 Antonio Bandeira tem 54 anos, é Gerente do setor de Tecnologia da Informação de uma grande multinacional, está a procura de bons desenvolvedores. Está entrevistando a Maria Jsé e deseja acessar o site para visualizar seus projetos, acessar seu Linkedin e seu perfil do GitHub e de outros usuarios. 
 
 ![download (2)](https://user-images.githubusercontent.com/81194817/138904809-91074819-bf30-4262-a572-fc5e48bb85c7.jpg)
+
+![Marina Rodrigues](img/mariana_rodrigues.png)
+
+Marina Rodrigues tem 35 anos, é uma desenvolvedora Jr front-end em React Js buscando oportunidade como desenvolvedora back-end C#. Marina possui um portfólio inicial em React e gostaria de divulgá-lo com intenção de receber uma oferta de emprego para atuar na área. Inclusive pensando em carreira internacional. Além disso, ela deseja se conectar com outros desenvolvedores na linguagem C# para compartilhar e adquirir conhecimento sobre a linguagem. 
+
+
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
