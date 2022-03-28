@@ -3,48 +3,48 @@
 ## Personas
 
 
-Ana Maria tem 25 anos, é uma desenvolvedora Jr front-end em ReactJs buscando oportunidade como desenvolvedora back-end Java. Ana já possui um portfólio inicial em Java e gostaria de divulgá-lo com intenção de receber uma oferta de emprego para atuar na área. Além disso, ela deseja se conectar com outros desenvolvedores Java para compartilhar e adquirir conhecimento sobre a linguagem.
+Ana Maria tem 25 anos, é uma desenvolvedora Jr front-end em ReactJs buscando oportunidade como desenvolvedora back-end em Java. Ana já possui um portfólio inicial em Java e gostaria de divulgá-lo com intenção de receber uma oferta de emprego para atuar na área. Além disso, ela deseja se conectar com outras pessoas desenvolvedoras em Java para compartilhar e adquirir conhecimento sobre a linguagem.
 
 ![ana maria](https://user-images.githubusercontent.com/81194817/135849893-7251ac9a-947a-41a3-abce-4a96ad8e7e0d.png) 
 
-André Maia, tem 35 anos, portador de deficiência física, desenvolvedor Pleno back-end em Phyton e está em busca de novos desafios em linguagem SAP ABAP. André possui vários projetos que demonstram sua experiência profissional e conhecimento em lógica de programação. Dessa maneira, ele gostaria de ter uma ferramenta que o conectasse a pessoas desenvolvedoras ABAP e a empresas que buscam e promovem treinamentos nesta linguagem afim de aperfeiçoar e criar profissionais capacitados. Também, espera que essa ferramenta possa facilitar sua comunicação com os recrutadores.
+André Maia tem 35 anos, portador de deficiência física, desenvolvedor pleno back-end em Python e está em busca de novos desafios em linguagem ABAP. André possui vários projetos que demonstram sua experiência profissional e conhecimento em lógica de programação. Desta maneira, ele gostaria de ter uma ferramenta que o conectasse a pessoas desenvolvedoras ABAP e a empresas que buscam e promovem treinamentos nesta linguagem afim de aperfeiçoar e criar profissionais capacitados. André também espera que esta ferramenta possa facilitar sua comunicação com as pessoas recrutadoras.
 
 ![andremaia](https://user-images.githubusercontent.com/81194817/135849211-33677944-1b7a-42ae-965f-0f4446e1f7d8.jpg)
 
-Maria José, tem 29 anos, profissional de Tech Recruiter de uma multinacional de transformação digital à procura de um profissional específico, deseja encontrar com urgência um desenvolvedor SAP ABAP Sênior que tenha profundo conhecimento no módulo FI e tenha disponibilidade para viagens, visto que a empresa opera em vários projetos com prazos curtos e precisa reforçar o time de desenvolvimento o quanto antes. Maria José teve dificuldade de encontrar esse profissional nas ferramentas convencionais e gostaria de uma aplicação que tenha diversos filtros para facilitar sua busca e encontrar exatamente o que procura no menor tempo possível.
+Maria José tem 29 anos, é uma Tech Recruiter de uma multinacional de transformação digital à procura de um profissional específico, deseja encontrar com urgência um desenvolvedor ABAP sênior que tenha profundo conhecimento no módulo FI e tenha disponibilidade para viagens, visto que a empresa opera em vários projetos com prazos curtos e precisa reforçar o time de desenvolvimento o quanto antes. Maria José teve dificuldade de encontrar esse profissional nas ferramentas convencionais e gostaria de uma aplicação que tenha diversos filtros para facilitar sua busca e encontrar exatamente o que procura no menor tempo possível.
 
 ![mariajose](https://user-images.githubusercontent.com/81194817/135849180-a12795e2-75ab-4041-9551-f87562ed8b33.png)
 
-João da Silva, tem 29 anos, é pós graduado em Engenharia de Software, deseja ter um site diferenciado dos demais para apresentar seus projetos em um processo seletivo de trainee e atualizá-lo rapidamente. Também deseja ter em uma única aplicação acesso ao seu perfil do Linkedin e GitHub.
+João da Silva tem 29 anos, é pós-graduado em Engenharia de Software e deseja ter um site diferenciado dos demais para apresentar seus projetos em um processo seletivo de trainee e atualizá-lo rapidamente. Ele também deseja ter em uma única aplicação acesso ao seu perfil do Linkedin e GitHub.
 
 ![joao da silva](https://user-images.githubusercontent.com/81194817/135849176-c65f3832-dcf0-4c51-8c69-3585c45cdfe5.png)
 
-Ana Maria, tem 27 anos, recém formada em Ciência da Computação, está procurando emprego e quer mostrar aos empregadores o que já desenvolveu por ordem cronológica. Para facilita a vida e o entendimento do recrutador. 
+Ana Maria tem 27 anos, recém formada em Ciência da Computação, está procurando emprego e quer mostrar aos empregadores o que já desenvolveu por ordem cronológica para que o recrutador possa ter mais clareza e entender melhor o desenvolvimento pessoal dela. Ela também busca uma aplicação que se conecte com o seu perfil no GitHub e mostre seus repositórios públicos. 
 
 ![fernanda silva](https://user-images.githubusercontent.com/81194817/135849173-7f3299d5-002d-416d-8c99-4dd9130f0b28.png) 
 
 
-Antônio Bandeira, tem 54 anos, é Gerente do setor de Tecnologia da Informação de uma grande multinacional, está a procura de bons desenvolvedores. Está entrevistando a Maria José e deseja acessar o site para visualizar seus projetos, acessar seu Linkedin e seu perfil do GitHub e de outros usuários. 
+Antônio Bandeira tem 54 anos, é gerente do setor de Tecnologia da Informação de uma grande multinacional e está a procura de boas pessoas desenvolvedoras. Ele deseja ter acesso rápido a uma aplicação para visualizar os projetos das pessoas desenvolvedoras que ele for entrevistar, acessar o Linkedin e perfil do GitHub delas e de outras pessoas usuárias. 
 
 ![download (2)](https://user-images.githubusercontent.com/81194817/138904809-91074819-bf30-4262-a572-fc5e48bb85c7.jpg)
 ## Histórias de Usuários
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-| EU COMO... `PERSONA` | QUERO/PRECISO ... `FUNCIONALIDADE`                           | PARA ... `MOTIVO/VALOR`                                      |
-| -------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| Ana Maria            | Publicar meus projetos em Java                               | ingressar de maneira rápida no mercado de trabalho           |
-| Ana Maria            | Trocar experiências com outros desenvolvedores em Java       | adquirir e compartilhar conhecimentos sobre a linguagem      |
+| EU COMO... `PERSONA` | QUERO/PRECISO ... `FUNCIONALIDADE`                                                            | PARA ... `MOTIVO/VALOR`                                                                                                       |
+| -------------------- |-----------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
+| Ana Maria            | Publicar meus projetos em Java                                                                | ingressar de maneira rápida no mercado de trabalho                                                                            |
+| Ana Maria            | Trocar experiências com outros pessoas desenvolvedoras em Java                                | adquirir e compartilhar conhecimentos sobre a linguagem                                                                       |
 | André Maia           | Publicar meus projetos que comprovem meu experiência e conhecimentos em lógica de programação | conseguir um contato com empresas que contratam e promovam treinamentos em ABAP para pessoas experientes em outras linguagens |
-| André Maia           | Trocar conhecimentos com profissionais SAP ABAP              | compartilhar conhecimentos rapidamente com qualquer pessoa   |
-| Maria José           | Utilizar filtros para encontrar o profissional desejado      | Encontrar um profissional e poder entrar em contato          |
-| João da Silva        | Publicar meus projetos                                       | apresentar em um processo seletivo de trainee                |
-| João da Silva        | Ter um site personalizado de porfolio de projetos            | atualiza-lo rapidamente                                      |
-| Fernanda Silva       | Organizar seus projetos em ordem cronológica                 | para mostrar minha evolução e facilitar o entendimento dos recrutadores |
-| Administrador        | Alterar permissões                                           | Permitir que possam administrar contas                       |
-| Antônio Bandeira     | Visualizar projetos                                          | Recrutar a Maria José e outros desenvolvedores.              |
-| João da Silva        | Fornecer em uma unica aplicação acesso ao meu perfil do Linkedin | Facilitar a vida do recrutador                               |
-| João da Silva        | Fornecer em uma unica aplicação acesso ao meu perfil do GitHub | Facilitar a vida do recrutador                               |
+| André Maia           | Trocar conhecimentos com profissionais SAP ABAP                                               | compartilhar conhecimentos rapidamente com qualquer pessoa                                                                    |
+| Maria José           | Utilizar filtros para encontrar o profissional desejado                                       | Encontrar um profissional e poder entrar em contato                                                                           |
+| João da Silva        | Publicar meus projetos                                                                        | apresentar em um processo seletivo de trainee                                                                                 |
+| João da Silva        | Ter um site personalizado de porfolio de projetos                                             | atualiza-lo rapidamente                                                                                                       |
+| Fernanda Silva       | Organizar seus projetos em ordem cronológica                                                  | para mostrar minha evolução e facilitar o entendimento das pessoas recrutadoras                                               |
+| Administrador        | Alterar permissões                                                                            | Permitir que possam administrar contas                                                                                        |
+| Antônio Bandeira     | Visualizar projetos                                                                           | Recrutar a Maria José e outras pessoas desenvolvedoras.                                                                       |
+| João da Silva        | Fornecer em uma unica aplicação acesso ao meu perfil do Linkedin                              | Facilitar a vida do recrutador                                                                                                |
+| João da Silva        | Fornecer em uma unica aplicação acesso ao meu perfil do GitHub                                | Facilitar a vida do recrutador                                                                                                |
 
 ## Requisitos
 
